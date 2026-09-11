@@ -16,7 +16,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1 class="header">{{ site.title | default: site.github.repository_name }}>deadcard</h1>
+        <li><a href="{{ '/' | relative_url }}">Home</a>
+        <h1 class="header">{{ site.title | "deadcard" }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
@@ -24,7 +25,6 @@
             <li class="download"><a class="buttons" href="{{ site.github.zip_url }}">Download ZIP</a></li>
             <li class="download"><a class="buttons" href="{{ site.github.tar_url }}">Download TAR</a></li>
           {% endif %}
-          <li><a href="{{ '/' | relative_url }}">Home</a>
           <li><a href="{{ '/about.html' | relative_url }}">About</a>
         </ul>
 
