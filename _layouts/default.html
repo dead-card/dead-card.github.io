@@ -24,7 +24,7 @@
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
         <ul>
-          {% if page.url != "about.html" %}
+          {% if page.url != "{{https://dead-card.github.io/about.html}}" %}
             <li><a href="{{ '/about.html' | relative_url }}">About</a>
           {% endif %}
             
