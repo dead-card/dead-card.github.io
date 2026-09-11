@@ -1,4 +1,4 @@
-# Pixel Art and Animations for Games
+# Pixel Art and Animations
 
 ### Sprites
 
