@@ -1,6 +1,6 @@
 # Pixel Art and Animations for Games
 
-### Sprite Design
+### Sprites
 
 ### Tilesets
 
