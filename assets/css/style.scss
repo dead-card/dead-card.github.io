@@ -10,36 +10,8 @@ body, h1, h2, h3, h4, h5, h6 {
 	color: #C9C9C9;
 }
 
-button,
-.btn {
-  background-color: #29B333;
-  color: #F00000;
-}
-
-button:active,
-button:focus {
-  background-color: #ffffff;
-  color: #000000;
-}
-
 header img {
   max-width: 100px;
   height: auto;
-}
-
-/* Sidebar navigation */
-header ul a {
-  color: #F00000 !important;
-  background-color: #29B333 !important;
-}
-
-header ul a:hover {
-  color: #F00000 !important;
-  background-color: #29B333 !important;
-}
-
-header ul a:active,
-header ul a:focus {
-  background-color: #ffffff !important;
-  color: #000000 !important;
+  margin: auto
 }
