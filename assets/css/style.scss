@@ -16,20 +16,19 @@ header img {
   margin: auto
 }
 
-/* The below code shifts the body of the website to the right, so it looks more centered compared to the sidebar */
-section {
-  width: calc(100% - 320px);
-  max-width: 900px;
-  margin-left: 300px;
-  margin-right: auto;
+/* REMOVE IMAGE BORDERS */
+
+header a,
+.portfolio-grid a {
+  border: none !important;
+  box-shadow: none !important;
 }
 
-.site-footer {
-  margin-left: 300px;
-  width: calc(100% - 300px);
-  text-align: center;
-  padding: 30px 0;
-  clear: both;
+header img,
+.portfolio-grid img {
+  border: none !important;
+  box-shadow: none !important;
+  background: transparent !important;
 }
 
 /* PORTFOLIO GRID */
@@ -55,4 +54,20 @@ section {
 .portfolio-grid a:hover img {
   transform: scale(1.04);
   filter: brightness(1.15);
+}
+
+/* The below code shifts the body of the website to the right, so it looks more centered compared to the sidebar */
+section {
+  width: calc(100% - 320px);
+  max-width: 900px;
+  margin-left: 300px;
+  margin-right: auto;
+}
+
+.site-footer {
+  margin-left: 300px;
+  width: calc(100% - 300px);
+  text-align: center;
+  padding: 30px 0;
+  clear: both;
 }
