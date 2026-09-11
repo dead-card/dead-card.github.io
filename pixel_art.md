@@ -1,6 +1,7 @@
 # Pixel Art and Animations
 
-### Sprites
+## The Cleaner and The Researcher
+### Two sprite animations for an unreleased game
 
 ### Tilesets
 
