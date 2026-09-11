@@ -58,7 +58,9 @@ header img,
 }
 
 .site-footer {
-  text-align: right;
+  margin-left: 300px;
+  width: calc(100% - 300px);
+  text-align: center;
   padding: 30px 0;
   clear: both;
 }
