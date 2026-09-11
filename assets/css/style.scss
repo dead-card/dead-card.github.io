@@ -35,7 +35,7 @@ header img,
 .portfolio-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  gap: 20px;
+  gap: 10px;
   margin-top: 20px;
 }
 
@@ -49,23 +49,15 @@ header img,
   width: 100%;
   height: auto;
   transition: transform 0.2s ease, filter 0.2s ease;
+  filter: brightness(0.60)
 }
 
 .portfolio-grid a:hover img {
   transform: scale(1.04);
-  filter: brightness(1.15);
-}
-
-/* The below code shifts the body of the website to the right, so it looks more centered compared to the sidebar */
-section {
-  width: calc(100% - 320px);
-  max-width: 900px;
-  margin-left: 300px;
-  margin-right: auto;
+  filter: brightness(1.00);
 }
 
 .site-footer {
-  width: calc(100% - 300px);
   text-align: right;
   padding: 30px 0;
   clear: both;
