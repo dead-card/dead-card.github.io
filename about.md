@@ -4,3 +4,10 @@ They want to push the limits of design and creativity holistically for any given
 a project is not just one thing, but a combination of parts.
 Therefore we explore each part before combining them back together, creating something entirely new.
 This is the goal of deadcard- **transformation of interactions, transformation from interactions.**
+
+  
+<footer class="site-footer">
+  <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+  <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using an altered version of the Dinky theme.</small></p>
+</footer>
+  
