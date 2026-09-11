@@ -38,10 +38,6 @@
           {% endif %}
 
         </ul>
-
-        {% if site.github.is_project_page %}
-          <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
       </header>
 
       <section>
@@ -51,7 +47,8 @@
     <!--[if !IE]><script>fixScale(document);</script><![endif]-->
 
     <footer class="site-footer">
-      <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using the Dinky theme</small></p>
+      <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      <p><small>Hosted on <a href="https://pages.github.com">GitHub Pages</a> using an altered version of the Dinky theme.</small></p>
     </footer>
     
   </body>
