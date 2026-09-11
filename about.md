@@ -1,8 +1,4 @@
----
-layout: page
-title: "About"
-permalink: /https://dead-card.github.io/about/
----
+# About
 deadcard is a creator who works in visual art, narrative media, and interactive design.
 They want to push the limits of design and creativity holistically for any given project-
 A project is not just one thing, but a combination of parts.
