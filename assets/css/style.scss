@@ -16,6 +16,14 @@ header img {
   margin: auto
 }
 
+/* The below code shifts the body of the website to the right, so it looks more centered compared to the sidebar */
+section {
+  width: calc(100% - 320px);
+  max-width: 900px;
+  margin-left: 300px;
+  margin-right: auto;
+}
+
 .portfolio-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
