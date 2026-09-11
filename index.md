@@ -1,5 +1,6 @@
 <a href="{{ '/' | relative_url }}">
 <img src="{{ '/assets/logos/logo_galaxy.png' | relative_url }}"
+        align="left"
         alt="Character Design"
         width="200"
         height="auto"
