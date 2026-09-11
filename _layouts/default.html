@@ -16,10 +16,8 @@
   <body>
     <div class="wrapper">
       <header>
-        <a href="{{ '/' | relative_url }}"
-            <img src="{{ '/assets/logo_outline.png' | relative_url }}" alt="Home">
-        </a> <!-- A button that takes the user back to the Home page -->
-        
+        <!-- A button that takes the user back to the Home page -->
+        <a href="{{ '/' | relative_url }}"<img src="{{ '/assets/logo_outline.png' | relative_url }}" alt="Home"></a>
         <h1 class="header">deadcard</h1> <!-- The title of the website -->
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
 
