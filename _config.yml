@@ -4,3 +4,4 @@ description: Death is not an end- it is a transformation. Transforming ideas int
 
 plugins:
   - jekyll-remote-theme
+remote_theme: abhinavs/moonwalk
