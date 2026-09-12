@@ -6,8 +6,9 @@ Therefore we explore each part before combining them back together, creating som
 This is the goal of deadcard- **transformation of interactions, transformation from interactions.**
 
 # Contact Me
-<a href="https://bsky.app/profile/deadcard.bsky.social">Bluesky</a>
-https://bsky.social/about/brand-assets/butterfly/bluesky_media_kit_logo_transparent_3.png
+<a href="https://bsky.app/profile/deadcard.bsky.social">
+  <img src="https://bsky.social/about/brand-assets/butterfly/bluesky_media_kit_logo_transparent_3.png" alt="deadcard's Bluesky">
+</a>
 
 <br>
 <br>
