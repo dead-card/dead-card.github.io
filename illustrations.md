@@ -4,6 +4,10 @@
 #### A combination pixel, edited photo and 2D Illustration piece for an unreleased Game
 
 ## Girl in Pajamas
+
+ <img src="{{ '/assets/portfolio/projectLM_Girl-Idle.gif' | relative_url }}" alt="Girl-Idle">
+ <img src="{{ '/assets/portfolio/projectLM_Girl-Walking.gif' | relative_url }}" alt="Girl-Walking">
+
 #### Two character animations for a canceled Horror Project
 
 ## A Faded Scene in Blue
