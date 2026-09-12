@@ -16,8 +16,8 @@
   </a>
 
   <a href="{{ '/' | relative_url }}">
-    <img src="{{ '/assets/logos/logo_galaxy.png' | relative_url }}" alt="Narrative Design">
-    <span class="portfolio-title">Narrative Design</span>
+    <img src="{{ '/assets/portfolio/Watercolor-BluHappyTrees.png' | relative_url }}" zoom="150%" alt="Illustrations">
+    <span class="portfolio-title">Illustrations</span>
   </a>
 
 </div>
