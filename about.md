@@ -10,7 +10,7 @@ This is the goal of deadcard- **transformation of interactions, transformation f
   <img src="https://bsky.social/about/brand-assets/butterfly/bluesky_media_kit_logo_transparent_3.png" width= "100" height="auto" alt="deadcard's Bluesky">
 </a>
 <a href="https://www.instagram.com/dead.card/">
-  <img src="{{ '/assets/logos/tumblr-t-white-logo.png' | relative_url }}" width= "100" height="auto" alt="deadcard's Instagram">
+  <img src="{{ '/assets/logos/Instagram_Glyph_White.png' | relative_url }}" width= "100" height="auto" alt="deadcard's Instagram">
 </a>
 <a href="https://www.tumblr.com/deadcardcreates">
   <img src="{{ '/assets/logos/tumblr-t-white-logo.png' | relative_url }}" width= "100" height="auto" alt="deadcard's Tumblr">
