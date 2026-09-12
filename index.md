@@ -16,7 +16,7 @@
   </a>
 
   <a href="{{ '/' | relative_url }}">
-    <img src="{{ '/assets/portfolio/Watercolor-BluHappyTrees.png' | relative_url }}" zoom="150%" alt="Illustrations">
+    <img src="{{ '/assets/portfolio/Watercolor-BluHappyTrees.png' | relative_url }}" alt="Illustrations">
     <span class="portfolio-title">Illustrations</span>
   </a>
 
