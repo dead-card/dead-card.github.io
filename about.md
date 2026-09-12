@@ -3,7 +3,7 @@
 They want to push the limits of design and creativity holistically for any given project-
 a project is not just one thing, but a combination of parts.
 Therefore we explore each part before combining them back together, creating something entirely new.
-This is the goal of **deadcard**- **transformation of interactions, transformation from interactions.**
+This is the goal of **deadcard**- **<u>transformation of interactions, transformation from interactions.</u>**
 
 # Contact Me
 
