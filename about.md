@@ -1,19 +1,22 @@
 # About
-deadcard is a creator who works in visual art, narrative media, and interactive design.
+**deadcard** is a creator who works in visual art, narrative media, and interactive design.
 They want to push the limits of design and creativity holistically for any given project-
 a project is not just one thing, but a combination of parts.
 Therefore we explore each part before combining them back together, creating something entirely new.
-This is the goal of deadcard- **transformation of interactions, transformation from interactions.**
+This is the goal of **deadcard**- **transformation of interactions, transformation from interactions.**
 
 # Contact Me
 
-Want to contact <h6>deadcard</h6> directly?
+Want to contact **deadcard** directly?
 Send them an [email](mailto:deadcardgamedev@proton.me).
 
-Follow <h6>deadcard</h6> on social media:
+Follow **deadcard** on social media: <br>
 <a href="https://bsky.app/profile/deadcard.bsky.social">
   <img src="https://bsky.social/about/brand-assets/butterfly/bluesky_media_kit_logo_transparent_3.png" width= "25" height="auto" alt="deadcard's Bluesky">
 </a>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://www.instagram.com/dead.card/">
   <img src="{{ '/assets/logos/Instagram_Glyph_White.png' | relative_url }}" width= "25" height="auto" alt="deadcard's Instagram">
 </a>
