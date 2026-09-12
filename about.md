@@ -7,6 +7,7 @@ This is the goal of deadcard- **transformation of interactions, transformation f
 
 # Contact Me
 <a href="https://bsky.app/profile/deadcard.bsky.social">Bluesky</a>
+https://bsky.social/about/brand-assets/butterfly/bluesky_media_kit_logo_transparent_3.png
 
 <br>
 <br>
