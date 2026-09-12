@@ -8,7 +8,7 @@ This is the goal of **deadcard**- **<u>transformation of interactions, transform
 # Contact Me
 
 Want to contact **deadcard** directly?
-Send them an [email](mailto:deadcardgamedev@proton.me).
+Send them an [email](mailto:deadcardgamedev@proton.me).<br>
 Follow **deadcard** on social media: <br>
 <a href="https://bsky.app/profile/deadcard.bsky.social">
   <img src="https://bsky.social/about/brand-assets/butterfly/bluesky_media_kit_logo_transparent_3.png" width= "25" height="auto" alt="deadcard's Bluesky">
