@@ -13,7 +13,7 @@ This is the goal of deadcard- **transformation of interactions, transformation f
   <img src="{{ '/assets/logos/Instagram_Glyph_White.png' | relative_url }}" width= "100" height="auto" alt="deadcard's Instagram">
 </a>
 <a href="https://www.tumblr.com/deadcardcreates">
-  <img src="{{ '/assets/logos/tumblr-t-white-logo.png' | relative_url }}" width= "100" height="auto" alt="deadcard's Tumblr">
+  <img src="{{ '/assets/logos/tumblr-t-white-logo.png' | relative_url }}" height="100" width= "auto" alt="deadcard's Tumblr">
 </a>
   
 
