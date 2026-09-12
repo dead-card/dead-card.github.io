@@ -14,9 +14,6 @@ Follow **deadcard** on social media: <br>
 <a href="https://bsky.app/profile/deadcard.bsky.social">
   <img src="https://bsky.social/about/brand-assets/butterfly/bluesky_media_kit_logo_transparent_3.png" width= "25" height="auto" alt="deadcard's Bluesky">
 </a>
-
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 <a href="https://www.instagram.com/dead.card/">
   <img src="{{ '/assets/logos/Instagram_Glyph_White.png' | relative_url }}" width= "25" height="auto" alt="deadcard's Instagram">
 </a>
