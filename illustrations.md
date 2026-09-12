@@ -10,3 +10,5 @@
 
 ## A Faded Scene in Blue
 #### An example of "Pixel Watercolor" inspired by Franrekkk's tutorials
+ <img src="{{ '/assets/portfolio/Watercolor-BluHappyTrees.png' | relative_url }}" width="200" height ="auto" alt="Girl-Walking">
+
