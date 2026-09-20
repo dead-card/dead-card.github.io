@@ -1,3 +1,5 @@
+title: Pixel Art
+
 # Pixel Art and Animations
 
 ## The Cleaner and The Researcher
