@@ -1,3 +1,7 @@
+---
+title: About
+---
+
 # About
 **deadcard** is a creator who works in visual art, narrative media, and interactive design.
 They want to push the limits of design and creativity holistically for any given project-
