@@ -5,6 +5,7 @@
 
 ## Girl in Pajamas
 **Two character animations for a canceled Horror Project**
+Animations are adapted from another's character designs.
 
  <img src="{{ '/assets/portfolio/projectLM_Girl-Idle.gif' | relative_url }}" alt="Girl-Idle">
  <img src="{{ '/assets/portfolio/projectLM_Girl-Walking.gif' | relative_url }}" alt="Girl-Walking">
