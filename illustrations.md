@@ -1,3 +1,6 @@
+---
+title: Illustrations
+---
 # Illustrations and 2D Animations
 
 <!-- ## Drunk with Power
