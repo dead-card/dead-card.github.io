@@ -1,4 +1,6 @@
+---
 title: Pixel Art
+---
 
 # Pixel Art and Animations
 
